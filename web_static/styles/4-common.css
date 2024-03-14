@@ -11,8 +11,6 @@ body {
 	margin-top: 30px;
 	margin-bottom: 30px;
 	display: flex;
-	align-items: center; /* Align vertically */
-	justify-content: center; /* Align horizontally */
 	margin-left: auto;
 	margin-right: auto;
 }

@@ -3,7 +3,7 @@
 	height: 70px;
 	width: 100%;
 	border: 1px solid #DDDDDD;
-	/*border-radius: 4px;*/
+	border-radius: 4px;
 	display: flex;
 	align-items: center;
 }
@@ -58,6 +58,7 @@
 	background-color: #FAFAFA;
 	width: 100%;
 	border: #DDDDDD solid 1px;
+	border-radius: 4px;
 	padding-left: -55px;
 	margin-top: -5px;
 	margin-left: -51px;

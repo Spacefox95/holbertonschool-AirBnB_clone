@@ -10,7 +10,8 @@ body {
 	max-width: 1000px;
 	margin-top: 30px;
 	margin-bottom: 30px;
-	display: flex;
+	position: relative;
+	display: flexbox;
 	margin-left: auto;
 	margin-right: auto;
 }
